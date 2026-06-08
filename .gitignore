@@ -1,0 +1,15 @@
+# Dependencias
+node_modules/
+
+# Construcción
+dist/
+
+# Entorno local
+.env
+.env.local
+
+# Logs y caches
+*.log
+.eslintcache
+.parcel-cache
+.tsbuildinfo
