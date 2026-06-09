@@ -4,6 +4,8 @@ Un Asistente de Software Inteligente basado en Agentes, desarrollado en **Node.j
 
 Este proyecto va más allá de un chatbot tradicional: conecta a Gemini 1.5 Flash como "cerebro" y le da herramientas para realizar acciones reales directamente en tu computadora, como leer, escribir, listar archivos y consultar internet.
 
+<img width="692" height="388" alt="Videolinkdin" src="https://github.com/user-attachments/assets/990058a6-435f-441f-9780-591f54aae581" />
+
 ---
 
 ## ✨ Características Especiales
