@@ -1,4 +1,4 @@
-# CLI perosonal
+# CLI Personal
 
 Un Asistente de Software Inteligente basado en Agentes, desarrollado en **Node.js** y **TypeScript**, utilizando el SDK oficial de **Google Gemini** (`@google/generative-ai`) y la técnica avanzada de **Function Calling** (Llamada a Funciones).
 
